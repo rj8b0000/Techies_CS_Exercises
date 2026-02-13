@@ -28,7 +28,11 @@ namespace ConsoleApp1
             Console.WriteLine("**19. Multi-Dimensional Array **");
             Console.WriteLine("**20. Jagged Arrays **");
             Console.WriteLine("**21. Ranges and Indices Array **");
-            Console.WriteLine("**22. Print Items from List **");
+            Console.WriteLine("**22. Add and Print Items from List **");
+            Console.WriteLine("**23. Removing Items from List **");
+            Console.WriteLine("**24. Create age Dictionary **");
+            Console.WriteLine("**25. Dictionary Stock Check **");
+            Console.WriteLine("**26. Looping Through Dictionary **");
             
             Console.WriteLine("Enter The Program Case Number:");
             choice = Convert.ToInt32(Console.ReadLine());
@@ -152,7 +156,35 @@ namespace ConsoleApp1
                         Console.WriteLine(name);
                     }
                     break;
-            default:
+                case 23:
+                    RemoveItemFromList.Run( ["John", "Bob", "Mary"], "Mary");
+                    break;
+                case 24:
+                    var dict = CreateDictionary.CreateAgeDictionary();
+                    dict.Add("Bob", 2);
+                    dict.Add("Charlie", 3);
+                    dict.Add("Den", 4);
+                    dict.Add("James", 5);
+                    Console.WriteLine(dict.Count);
+                    Console.WriteLine(dict["Charlie"]);
+                    break;
+                case 25:
+                    var invertory = new Dictionary<string, int> { { "Apple", 10 },{"Orange", 20 },{"Banana", 30 }, };
+                    DictionaryStockCheck.GetValueSafely(invertory, "Apple");
+                    DictionaryStockCheck.GetValueSafely(invertory, "Guvawa");
+                    break;
+                case 26:
+                    static void PrintDictionary(Dictionary<string, int> dict)
+                    {
+                        foreach (var (key, value) in dict)
+                        {
+                            Console.WriteLine("Keys: " + key);
+                            Console.WriteLine("Value: " + value);
+                        }
+                    }
+                    PrintDictionary(new  Dictionary<string, int> { { "Apple", 10 },{"Orange", 20 },{"Banana", 30 }, });
+                    break;
+                default:
                     Console.WriteLine("Invalid Case Entered");
                     break;
 
