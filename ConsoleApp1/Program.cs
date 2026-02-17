@@ -33,6 +33,7 @@ namespace ConsoleApp1
             Console.WriteLine("**24. Create age Dictionary **");
             Console.WriteLine("**25. Dictionary Stock Check **");
             Console.WriteLine("**26. Looping Through Dictionary **");
+            Console.WriteLine("**27. Constructor and Constructor Overloading **");
             
             Console.WriteLine("Enter The Program Case Number:");
             choice = Convert.ToInt32(Console.ReadLine());
@@ -183,6 +184,12 @@ namespace ConsoleApp1
                         }
                     }
                     PrintDictionary(new  Dictionary<string, int> { { "Apple", 10 },{"Orange", 20 },{"Banana", 30 }, });
+                    break;
+                case 27:
+                    Person ob1 = new Person(name:"Alice");
+                    Person ob2 = new Person(age:20, name:"Bob");
+                    Console.WriteLine($"The name is {ob1.Name} and the age is {ob1.Age}");
+                    Console.WriteLine($"The name is {ob2.Name} and the age is {ob2.Age}");
                     break;
                 default:
                     Console.WriteLine("Invalid Case Entered");
