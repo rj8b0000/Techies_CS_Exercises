@@ -26,6 +26,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseMethod", "BaseMethod\Ba
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClass", "AbstractClass\AbstractClass.csproj", "{21D60483-ECCF-45B1-A9B7-70585A16E753}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceExample", "InterfaceExample\InterfaceExample.csproj", "{2A106097-9C42-4092-9C6B-63CA9706E8C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMovable.cs", "IMovable.cs\IMovable.cs.csproj", "{B051CB99-60A6-4BDA-9C76-FE334E560C45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleInterface", "MultipleInterface\MultipleInterface.csproj", "{792B9F86-F434-43D6-AFF4-2FB1D86C0DFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +90,17 @@ Global
 		{21D60483-ECCF-45B1-A9B7-70585A16E753}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21D60483-ECCF-45B1-A9B7-70585A16E753}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21D60483-ECCF-45B1-A9B7-70585A16E753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A106097-9C42-4092-9C6B-63CA9706E8C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A106097-9C42-4092-9C6B-63CA9706E8C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A106097-9C42-4092-9C6B-63CA9706E8C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A106097-9C42-4092-9C6B-63CA9706E8C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B051CB99-60A6-4BDA-9C76-FE334E560C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B051CB99-60A6-4BDA-9C76-FE334E560C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B051CB99-60A6-4BDA-9C76-FE334E560C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B051CB99-60A6-4BDA-9C76-FE334E560C45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{792B9F86-F434-43D6-AFF4-2FB1D86C0DFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{792B9F86-F434-43D6-AFF4-2FB1D86C0DFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{792B9F86-F434-43D6-AFF4-2FB1D86C0DFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{792B9F86-F434-43D6-AFF4-2FB1D86C0DFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
