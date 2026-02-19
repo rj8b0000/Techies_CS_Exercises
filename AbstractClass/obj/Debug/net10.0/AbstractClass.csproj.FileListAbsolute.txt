@@ -1,0 +1,15 @@
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/AbstractClass/bin/Debug/net10.0/AbstractClass
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/AbstractClass/bin/Debug/net10.0/AbstractClass.deps.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/AbstractClass/bin/Debug/net10.0/AbstractClass.runtimeconfig.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/AbstractClass/bin/Debug/net10.0/AbstractClass.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/AbstractClass/bin/Debug/net10.0/AbstractClass.pdb
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/AbstractClass/obj/Debug/net10.0/AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/AbstractClass/obj/Debug/net10.0/AbstractClass.AssemblyInfoInputs.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/AbstractClass/obj/Debug/net10.0/AbstractClass.AssemblyInfo.cs
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/AbstractClass/obj/Debug/net10.0/AbstractClass.csproj.CoreCompileInputs.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/AbstractClass/obj/Debug/net10.0/AbstractClass.sourcelink.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/AbstractClass/obj/Debug/net10.0/AbstractClass.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/AbstractClass/obj/Debug/net10.0/refint/AbstractClass.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/AbstractClass/obj/Debug/net10.0/AbstractClass.pdb
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/AbstractClass/obj/Debug/net10.0/AbstractClass.genruntimeconfig.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/AbstractClass/obj/Debug/net10.0/ref/AbstractClass.dll

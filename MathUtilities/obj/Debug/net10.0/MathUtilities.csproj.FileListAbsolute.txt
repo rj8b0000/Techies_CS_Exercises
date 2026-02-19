@@ -1,0 +1,15 @@
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/MathUtilities/bin/Debug/net10.0/MathUtilities
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/MathUtilities/bin/Debug/net10.0/MathUtilities.deps.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/MathUtilities/bin/Debug/net10.0/MathUtilities.runtimeconfig.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/MathUtilities/bin/Debug/net10.0/MathUtilities.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/MathUtilities/bin/Debug/net10.0/MathUtilities.pdb
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/MathUtilities/obj/Debug/net10.0/MathUtilities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/MathUtilities/obj/Debug/net10.0/MathUtilities.AssemblyInfoInputs.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/MathUtilities/obj/Debug/net10.0/MathUtilities.AssemblyInfo.cs
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/MathUtilities/obj/Debug/net10.0/MathUtilities.csproj.CoreCompileInputs.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/MathUtilities/obj/Debug/net10.0/MathUtilities.sourcelink.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/MathUtilities/obj/Debug/net10.0/MathUtilities.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/MathUtilities/obj/Debug/net10.0/refint/MathUtilities.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/MathUtilities/obj/Debug/net10.0/MathUtilities.pdb
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/MathUtilities/obj/Debug/net10.0/MathUtilities.genruntimeconfig.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/MathUtilities/obj/Debug/net10.0/ref/MathUtilities.dll

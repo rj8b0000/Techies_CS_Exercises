@@ -1,0 +1,15 @@
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/Player/bin/Debug/net10.0/Player
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/Player/bin/Debug/net10.0/Player.deps.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/Player/bin/Debug/net10.0/Player.runtimeconfig.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/Player/bin/Debug/net10.0/Player.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/Player/bin/Debug/net10.0/Player.pdb
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/Player/obj/Debug/net10.0/Player.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/Player/obj/Debug/net10.0/Player.AssemblyInfoInputs.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/Player/obj/Debug/net10.0/Player.AssemblyInfo.cs
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/Player/obj/Debug/net10.0/Player.csproj.CoreCompileInputs.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/Player/obj/Debug/net10.0/Player.sourcelink.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/Player/obj/Debug/net10.0/Player.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/Player/obj/Debug/net10.0/refint/Player.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/Player/obj/Debug/net10.0/Player.pdb
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/Player/obj/Debug/net10.0/Player.genruntimeconfig.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/Player/obj/Debug/net10.0/ref/Player.dll

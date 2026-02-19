@@ -1,0 +1,15 @@
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/ReadOnlyProperties/bin/Debug/net10.0/ReadOnlyProperties
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/ReadOnlyProperties/bin/Debug/net10.0/ReadOnlyProperties.deps.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/ReadOnlyProperties/bin/Debug/net10.0/ReadOnlyProperties.runtimeconfig.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/ReadOnlyProperties/bin/Debug/net10.0/ReadOnlyProperties.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/ReadOnlyProperties/bin/Debug/net10.0/ReadOnlyProperties.pdb
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/ReadOnlyProperties/obj/Debug/net10.0/ReadOnlyProperties.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/ReadOnlyProperties/obj/Debug/net10.0/ReadOnlyProperties.AssemblyInfoInputs.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/ReadOnlyProperties/obj/Debug/net10.0/ReadOnlyProperties.AssemblyInfo.cs
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/ReadOnlyProperties/obj/Debug/net10.0/ReadOnlyProperties.csproj.CoreCompileInputs.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/ReadOnlyProperties/obj/Debug/net10.0/ReadOnlyProperties.sourcelink.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/ReadOnlyProperties/obj/Debug/net10.0/ReadOnlyProperties.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/ReadOnlyProperties/obj/Debug/net10.0/refint/ReadOnlyProperties.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/ReadOnlyProperties/obj/Debug/net10.0/ReadOnlyProperties.pdb
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/ReadOnlyProperties/obj/Debug/net10.0/ReadOnlyProperties.genruntimeconfig.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/ReadOnlyProperties/obj/Debug/net10.0/ref/ReadOnlyProperties.dll

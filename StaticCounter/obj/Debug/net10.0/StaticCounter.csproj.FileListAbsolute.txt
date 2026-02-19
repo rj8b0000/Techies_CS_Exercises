@@ -1,0 +1,15 @@
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/StaticCounter/bin/Debug/net10.0/StaticCounter
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/StaticCounter/bin/Debug/net10.0/StaticCounter.deps.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/StaticCounter/bin/Debug/net10.0/StaticCounter.runtimeconfig.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/StaticCounter/bin/Debug/net10.0/StaticCounter.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/StaticCounter/bin/Debug/net10.0/StaticCounter.pdb
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/StaticCounter/obj/Debug/net10.0/StaticCounter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/StaticCounter/obj/Debug/net10.0/StaticCounter.AssemblyInfoInputs.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/StaticCounter/obj/Debug/net10.0/StaticCounter.AssemblyInfo.cs
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/StaticCounter/obj/Debug/net10.0/StaticCounter.csproj.CoreCompileInputs.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/StaticCounter/obj/Debug/net10.0/StaticCounter.sourcelink.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/StaticCounter/obj/Debug/net10.0/StaticCounter.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/StaticCounter/obj/Debug/net10.0/refint/StaticCounter.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/StaticCounter/obj/Debug/net10.0/StaticCounter.pdb
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/StaticCounter/obj/Debug/net10.0/StaticCounter.genruntimeconfig.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/StaticCounter/obj/Debug/net10.0/ref/StaticCounter.dll

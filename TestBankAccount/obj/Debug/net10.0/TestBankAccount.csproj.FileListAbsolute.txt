@@ -1,0 +1,15 @@
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/TestBankAccount/obj/Debug/net10.0/TestBankAccount.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/TestBankAccount/obj/Debug/net10.0/TestBankAccount.AssemblyInfoInputs.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/TestBankAccount/obj/Debug/net10.0/TestBankAccount.AssemblyInfo.cs
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/TestBankAccount/obj/Debug/net10.0/TestBankAccount.csproj.CoreCompileInputs.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/TestBankAccount/obj/Debug/net10.0/TestBankAccount.sourcelink.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/TestBankAccount/bin/Debug/net10.0/TestBankAccount
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/TestBankAccount/bin/Debug/net10.0/TestBankAccount.deps.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/TestBankAccount/bin/Debug/net10.0/TestBankAccount.runtimeconfig.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/TestBankAccount/bin/Debug/net10.0/TestBankAccount.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/TestBankAccount/bin/Debug/net10.0/TestBankAccount.pdb
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/TestBankAccount/obj/Debug/net10.0/TestBankAccount.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/TestBankAccount/obj/Debug/net10.0/refint/TestBankAccount.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/TestBankAccount/obj/Debug/net10.0/TestBankAccount.pdb
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/TestBankAccount/obj/Debug/net10.0/TestBankAccount.genruntimeconfig.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/TestBankAccount/obj/Debug/net10.0/ref/TestBankAccount.dll

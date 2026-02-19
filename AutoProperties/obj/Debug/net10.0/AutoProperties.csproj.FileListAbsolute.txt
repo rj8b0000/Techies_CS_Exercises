@@ -1,0 +1,15 @@
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/AutoProperties/bin/Debug/net10.0/AutoProperties
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/AutoProperties/bin/Debug/net10.0/AutoProperties.deps.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/AutoProperties/bin/Debug/net10.0/AutoProperties.runtimeconfig.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/AutoProperties/bin/Debug/net10.0/AutoProperties.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/AutoProperties/bin/Debug/net10.0/AutoProperties.pdb
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/AutoProperties/obj/Debug/net10.0/AutoProperties.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/AutoProperties/obj/Debug/net10.0/AutoProperties.AssemblyInfoInputs.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/AutoProperties/obj/Debug/net10.0/AutoProperties.AssemblyInfo.cs
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/AutoProperties/obj/Debug/net10.0/AutoProperties.csproj.CoreCompileInputs.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/AutoProperties/obj/Debug/net10.0/AutoProperties.sourcelink.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/AutoProperties/obj/Debug/net10.0/AutoProperties.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/AutoProperties/obj/Debug/net10.0/refint/AutoProperties.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/AutoProperties/obj/Debug/net10.0/AutoProperties.pdb
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/AutoProperties/obj/Debug/net10.0/AutoProperties.genruntimeconfig.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/AutoProperties/obj/Debug/net10.0/ref/AutoProperties.dll

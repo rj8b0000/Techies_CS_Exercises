@@ -1,0 +1,15 @@
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/Thiskeyword/bin/Debug/net10.0/Thiskeyword
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/Thiskeyword/bin/Debug/net10.0/Thiskeyword.deps.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/Thiskeyword/bin/Debug/net10.0/Thiskeyword.runtimeconfig.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/Thiskeyword/bin/Debug/net10.0/Thiskeyword.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/Thiskeyword/bin/Debug/net10.0/Thiskeyword.pdb
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/Thiskeyword/obj/Debug/net10.0/Thiskeyword.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/Thiskeyword/obj/Debug/net10.0/Thiskeyword.AssemblyInfoInputs.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/Thiskeyword/obj/Debug/net10.0/Thiskeyword.AssemblyInfo.cs
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/Thiskeyword/obj/Debug/net10.0/Thiskeyword.csproj.CoreCompileInputs.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/Thiskeyword/obj/Debug/net10.0/Thiskeyword.sourcelink.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/Thiskeyword/obj/Debug/net10.0/Thiskeyword.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/Thiskeyword/obj/Debug/net10.0/refint/Thiskeyword.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/Thiskeyword/obj/Debug/net10.0/Thiskeyword.pdb
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/Thiskeyword/obj/Debug/net10.0/Thiskeyword.genruntimeconfig.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/Thiskeyword/obj/Debug/net10.0/ref/Thiskeyword.dll

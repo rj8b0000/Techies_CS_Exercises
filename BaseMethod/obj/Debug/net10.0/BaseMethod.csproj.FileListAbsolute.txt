@@ -1,0 +1,15 @@
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/BaseMethod/bin/Debug/net10.0/BaseMethod
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/BaseMethod/bin/Debug/net10.0/BaseMethod.deps.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/BaseMethod/bin/Debug/net10.0/BaseMethod.runtimeconfig.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/BaseMethod/bin/Debug/net10.0/BaseMethod.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/BaseMethod/bin/Debug/net10.0/BaseMethod.pdb
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/BaseMethod/obj/Debug/net10.0/BaseMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/BaseMethod/obj/Debug/net10.0/BaseMethod.AssemblyInfoInputs.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/BaseMethod/obj/Debug/net10.0/BaseMethod.AssemblyInfo.cs
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/BaseMethod/obj/Debug/net10.0/BaseMethod.csproj.CoreCompileInputs.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/BaseMethod/obj/Debug/net10.0/BaseMethod.sourcelink.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/BaseMethod/obj/Debug/net10.0/BaseMethod.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/BaseMethod/obj/Debug/net10.0/refint/BaseMethod.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/BaseMethod/obj/Debug/net10.0/BaseMethod.pdb
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/BaseMethod/obj/Debug/net10.0/BaseMethod.genruntimeconfig.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/BaseMethod/obj/Debug/net10.0/ref/BaseMethod.dll
