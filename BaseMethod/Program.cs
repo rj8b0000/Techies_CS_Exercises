@@ -23,7 +23,9 @@
             Department = department;
         }
 
-        public override string GetInfo()
+        public 
+            
+            string GetInfo()
         {
             return $"{base.GetInfo()} - Works in {Department} Department";
         }
