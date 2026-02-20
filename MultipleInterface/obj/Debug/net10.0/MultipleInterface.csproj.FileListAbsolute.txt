@@ -1,0 +1,15 @@
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/MultipleInterface/bin/Debug/net10.0/MultipleInterface
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/MultipleInterface/bin/Debug/net10.0/MultipleInterface.deps.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/MultipleInterface/bin/Debug/net10.0/MultipleInterface.runtimeconfig.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/MultipleInterface/bin/Debug/net10.0/MultipleInterface.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/MultipleInterface/bin/Debug/net10.0/MultipleInterface.pdb
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/MultipleInterface/obj/Debug/net10.0/MultipleInterface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/MultipleInterface/obj/Debug/net10.0/MultipleInterface.AssemblyInfoInputs.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/MultipleInterface/obj/Debug/net10.0/MultipleInterface.AssemblyInfo.cs
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/MultipleInterface/obj/Debug/net10.0/MultipleInterface.csproj.CoreCompileInputs.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/MultipleInterface/obj/Debug/net10.0/MultipleInterface.sourcelink.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/MultipleInterface/obj/Debug/net10.0/MultipleInterface.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/MultipleInterface/obj/Debug/net10.0/refint/MultipleInterface.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/MultipleInterface/obj/Debug/net10.0/MultipleInterface.pdb
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/MultipleInterface/obj/Debug/net10.0/MultipleInterface.genruntimeconfig.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/MultipleInterface/obj/Debug/net10.0/ref/MultipleInterface.dll

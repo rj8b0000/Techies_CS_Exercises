@@ -1,0 +1,15 @@
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/InterfaceExample/bin/Debug/net10.0/InterfaceExample
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/InterfaceExample/bin/Debug/net10.0/InterfaceExample.deps.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/InterfaceExample/bin/Debug/net10.0/InterfaceExample.runtimeconfig.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/InterfaceExample/bin/Debug/net10.0/InterfaceExample.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/InterfaceExample/bin/Debug/net10.0/InterfaceExample.pdb
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/InterfaceExample/obj/Debug/net10.0/InterfaceExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/InterfaceExample/obj/Debug/net10.0/InterfaceExample.AssemblyInfoInputs.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/InterfaceExample/obj/Debug/net10.0/InterfaceExample.AssemblyInfo.cs
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/InterfaceExample/obj/Debug/net10.0/InterfaceExample.csproj.CoreCompileInputs.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/InterfaceExample/obj/Debug/net10.0/InterfaceExample.sourcelink.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/InterfaceExample/obj/Debug/net10.0/InterfaceExample.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/InterfaceExample/obj/Debug/net10.0/refint/InterfaceExample.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/InterfaceExample/obj/Debug/net10.0/InterfaceExample.pdb
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/InterfaceExample/obj/Debug/net10.0/InterfaceExample.genruntimeconfig.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/InterfaceExample/obj/Debug/net10.0/ref/InterfaceExample.dll

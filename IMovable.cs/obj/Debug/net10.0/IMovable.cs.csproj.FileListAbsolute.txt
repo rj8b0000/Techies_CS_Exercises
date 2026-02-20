@@ -1,0 +1,15 @@
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/IMovable.cs/bin/Debug/net10.0/IMovable.cs
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/IMovable.cs/bin/Debug/net10.0/IMovable.cs.deps.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/IMovable.cs/bin/Debug/net10.0/IMovable.cs.runtimeconfig.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/IMovable.cs/bin/Debug/net10.0/IMovable.cs.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/IMovable.cs/bin/Debug/net10.0/IMovable.cs.pdb
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/IMovable.cs/obj/Debug/net10.0/IMovable.cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/IMovable.cs/obj/Debug/net10.0/IMovable.cs.AssemblyInfoInputs.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/IMovable.cs/obj/Debug/net10.0/IMovable.cs.AssemblyInfo.cs
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/IMovable.cs/obj/Debug/net10.0/IMovable.cs.csproj.CoreCompileInputs.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/IMovable.cs/obj/Debug/net10.0/IMovable.cs.sourcelink.json
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/IMovable.cs/obj/Debug/net10.0/IMovable.cs.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/IMovable.cs/obj/Debug/net10.0/refint/IMovable.cs.dll
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/IMovable.cs/obj/Debug/net10.0/IMovable.cs.pdb
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/IMovable.cs/obj/Debug/net10.0/IMovable.cs.genruntimeconfig.cache
+/Users/rudrakshjani/RiderProjects/ConsoleApp1/IMovable.cs/obj/Debug/net10.0/ref/IMovable.cs.dll
