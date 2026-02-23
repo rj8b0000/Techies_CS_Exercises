@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../ATMSimulation/ATMSimulation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../PaymentGatewaySystem" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../SolidPrinciples" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../Week2Practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../WarriorWars" vcs="Git" />
   </component>
 </project>

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rudrakshjani/RiderProjects/ConsoleApp1/ReadOnlyProperties/ReadOnlyProperties.csproj",
+      "projectUniqueName": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/ReadOnlyProperties/ReadOnlyProperties.csproj",
       "projectName": "ReadOnlyProperties",
-      "projectPath": "/Users/rudrakshjani/RiderProjects/ConsoleApp1/ReadOnlyProperties/ReadOnlyProperties.csproj",
+      "projectPath": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/ReadOnlyProperties/ReadOnlyProperties.csproj",
       "packagesPath": "/Users/rudrakshjani/.nuget/packages/",
-      "outputPath": "/Users/rudrakshjani/RiderProjects/ConsoleApp1/ReadOnlyProperties/obj/",
+      "outputPath": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/ReadOnlyProperties/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rudrakshjani/.nuget/NuGet/NuGet.Config"

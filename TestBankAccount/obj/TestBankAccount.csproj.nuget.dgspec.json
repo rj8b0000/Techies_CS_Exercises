@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rudrakshjani/RiderProjects/ConsoleApp1/TestBankAccount/TestBankAccount.csproj": {}
+    "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/TestBankAccount/TestBankAccount.csproj": {}
   },
   "projects": {
-    "/Users/rudrakshjani/RiderProjects/ConsoleApp1/TestBankAccount/TestBankAccount.csproj": {
+    "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/TestBankAccount/TestBankAccount.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rudrakshjani/RiderProjects/ConsoleApp1/TestBankAccount/TestBankAccount.csproj",
+        "projectUniqueName": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/TestBankAccount/TestBankAccount.csproj",
         "projectName": "TestBankAccount",
-        "projectPath": "/Users/rudrakshjani/RiderProjects/ConsoleApp1/TestBankAccount/TestBankAccount.csproj",
+        "projectPath": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/TestBankAccount/TestBankAccount.csproj",
         "packagesPath": "/Users/rudrakshjani/.nuget/packages/",
-        "outputPath": "/Users/rudrakshjani/RiderProjects/ConsoleApp1/TestBankAccount/obj/",
+        "outputPath": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/TestBankAccount/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rudrakshjani/.nuget/NuGet/NuGet.Config"

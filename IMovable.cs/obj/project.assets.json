@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rudrakshjani/RiderProjects/ConsoleApp1/IMovable.cs/IMovable.cs.csproj",
+      "projectUniqueName": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/IMovable.cs/IMovable.cs.csproj",
       "projectName": "IMovable.cs",
-      "projectPath": "/Users/rudrakshjani/RiderProjects/ConsoleApp1/IMovable.cs/IMovable.cs.csproj",
+      "projectPath": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/IMovable.cs/IMovable.cs.csproj",
       "packagesPath": "/Users/rudrakshjani/.nuget/packages/",
-      "outputPath": "/Users/rudrakshjani/RiderProjects/ConsoleApp1/IMovable.cs/obj/",
+      "outputPath": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/IMovable.cs/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rudrakshjani/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rudrakshjani/RiderProjects/ConsoleApp1/Animal/Animal.csproj": {}
+    "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/Animal/Animal.csproj": {}
   },
   "projects": {
-    "/Users/rudrakshjani/RiderProjects/ConsoleApp1/Animal/Animal.csproj": {
+    "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/Animal/Animal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rudrakshjani/RiderProjects/ConsoleApp1/Animal/Animal.csproj",
+        "projectUniqueName": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/Animal/Animal.csproj",
         "projectName": "Animal",
-        "projectPath": "/Users/rudrakshjani/RiderProjects/ConsoleApp1/Animal/Animal.csproj",
+        "projectPath": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/Animal/Animal.csproj",
         "packagesPath": "/Users/rudrakshjani/.nuget/packages/",
-        "outputPath": "/Users/rudrakshjani/RiderProjects/ConsoleApp1/Animal/obj/",
+        "outputPath": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/Animal/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rudrakshjani/.nuget/NuGet/NuGet.Config"

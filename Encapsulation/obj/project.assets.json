@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rudrakshjani/RiderProjects/ConsoleApp1/Encapsulation/Encapsulation.csproj",
+      "projectUniqueName": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/Encapsulation/Encapsulation.csproj",
       "projectName": "Encapsulation",
-      "projectPath": "/Users/rudrakshjani/RiderProjects/ConsoleApp1/Encapsulation/Encapsulation.csproj",
+      "projectPath": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/Encapsulation/Encapsulation.csproj",
       "packagesPath": "/Users/rudrakshjani/.nuget/packages/",
-      "outputPath": "/Users/rudrakshjani/RiderProjects/ConsoleApp1/Encapsulation/obj/",
+      "outputPath": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/Encapsulation/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rudrakshjani/.nuget/NuGet/NuGet.Config"

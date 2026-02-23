@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rudrakshjani/RiderProjects/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+      "projectUniqueName": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/ConsoleApp1/ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "/Users/rudrakshjani/RiderProjects/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+      "projectPath": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/ConsoleApp1/ConsoleApp1.csproj",
       "packagesPath": "/Users/rudrakshjani/.nuget/packages/",
-      "outputPath": "/Users/rudrakshjani/RiderProjects/ConsoleApp1/ConsoleApp1/obj/",
+      "outputPath": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/ConsoleApp1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rudrakshjani/.nuget/NuGet/NuGet.Config"

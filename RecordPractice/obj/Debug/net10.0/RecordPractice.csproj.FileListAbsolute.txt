@@ -1,0 +1,15 @@
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordPractice/bin/Debug/net10.0/RecordPractice
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordPractice/bin/Debug/net10.0/RecordPractice.deps.json
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordPractice/bin/Debug/net10.0/RecordPractice.runtimeconfig.json
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordPractice/bin/Debug/net10.0/RecordPractice.dll
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordPractice/bin/Debug/net10.0/RecordPractice.pdb
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordPractice/obj/Debug/net10.0/RecordPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordPractice/obj/Debug/net10.0/RecordPractice.AssemblyInfoInputs.cache
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordPractice/obj/Debug/net10.0/RecordPractice.AssemblyInfo.cs
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordPractice/obj/Debug/net10.0/RecordPractice.csproj.CoreCompileInputs.cache
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordPractice/obj/Debug/net10.0/RecordPractice.sourcelink.json
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordPractice/obj/Debug/net10.0/RecordPractice.dll
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordPractice/obj/Debug/net10.0/refint/RecordPractice.dll
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordPractice/obj/Debug/net10.0/RecordPractice.pdb
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordPractice/obj/Debug/net10.0/RecordPractice.genruntimeconfig.cache
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordPractice/obj/Debug/net10.0/ref/RecordPractice.dll

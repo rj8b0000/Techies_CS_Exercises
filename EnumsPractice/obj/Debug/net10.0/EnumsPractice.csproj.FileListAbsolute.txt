@@ -1,0 +1,15 @@
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/EnumsPractice/bin/Debug/net10.0/EnumsPractice
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/EnumsPractice/bin/Debug/net10.0/EnumsPractice.deps.json
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/EnumsPractice/bin/Debug/net10.0/EnumsPractice.runtimeconfig.json
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/EnumsPractice/bin/Debug/net10.0/EnumsPractice.dll
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/EnumsPractice/bin/Debug/net10.0/EnumsPractice.pdb
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/EnumsPractice/obj/Debug/net10.0/EnumsPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/EnumsPractice/obj/Debug/net10.0/EnumsPractice.AssemblyInfoInputs.cache
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/EnumsPractice/obj/Debug/net10.0/EnumsPractice.AssemblyInfo.cs
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/EnumsPractice/obj/Debug/net10.0/EnumsPractice.csproj.CoreCompileInputs.cache
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/EnumsPractice/obj/Debug/net10.0/EnumsPractice.sourcelink.json
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/EnumsPractice/obj/Debug/net10.0/EnumsPractice.dll
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/EnumsPractice/obj/Debug/net10.0/refint/EnumsPractice.dll
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/EnumsPractice/obj/Debug/net10.0/EnumsPractice.pdb
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/EnumsPractice/obj/Debug/net10.0/EnumsPractice.genruntimeconfig.cache
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/EnumsPractice/obj/Debug/net10.0/ref/EnumsPractice.dll

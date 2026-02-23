@@ -1,0 +1,15 @@
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordsWithKeyword/bin/Debug/net10.0/RecordsWithKeyword
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordsWithKeyword/bin/Debug/net10.0/RecordsWithKeyword.deps.json
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordsWithKeyword/bin/Debug/net10.0/RecordsWithKeyword.runtimeconfig.json
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordsWithKeyword/bin/Debug/net10.0/RecordsWithKeyword.dll
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordsWithKeyword/bin/Debug/net10.0/RecordsWithKeyword.pdb
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordsWithKeyword/obj/Debug/net10.0/RecordsWithKeyword.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordsWithKeyword/obj/Debug/net10.0/RecordsWithKeyword.AssemblyInfoInputs.cache
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordsWithKeyword/obj/Debug/net10.0/RecordsWithKeyword.AssemblyInfo.cs
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordsWithKeyword/obj/Debug/net10.0/RecordsWithKeyword.csproj.CoreCompileInputs.cache
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordsWithKeyword/obj/Debug/net10.0/RecordsWithKeyword.sourcelink.json
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordsWithKeyword/obj/Debug/net10.0/RecordsWithKeyword.dll
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordsWithKeyword/obj/Debug/net10.0/refint/RecordsWithKeyword.dll
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordsWithKeyword/obj/Debug/net10.0/RecordsWithKeyword.pdb
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordsWithKeyword/obj/Debug/net10.0/RecordsWithKeyword.genruntimeconfig.cache
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordsWithKeyword/obj/Debug/net10.0/ref/RecordsWithKeyword.dll

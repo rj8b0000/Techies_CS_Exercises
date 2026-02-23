@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rudrakshjani/RiderProjects/ConsoleApp1/MultipleInterface/MultipleInterface.csproj": {}
+    "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/MultipleInterface/MultipleInterface.csproj": {}
   },
   "projects": {
-    "/Users/rudrakshjani/RiderProjects/ConsoleApp1/MultipleInterface/MultipleInterface.csproj": {
+    "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/MultipleInterface/MultipleInterface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rudrakshjani/RiderProjects/ConsoleApp1/MultipleInterface/MultipleInterface.csproj",
+        "projectUniqueName": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/MultipleInterface/MultipleInterface.csproj",
         "projectName": "MultipleInterface",
-        "projectPath": "/Users/rudrakshjani/RiderProjects/ConsoleApp1/MultipleInterface/MultipleInterface.csproj",
+        "projectPath": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/MultipleInterface/MultipleInterface.csproj",
         "packagesPath": "/Users/rudrakshjani/.nuget/packages/",
-        "outputPath": "/Users/rudrakshjani/RiderProjects/ConsoleApp1/MultipleInterface/obj/",
+        "outputPath": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/MultipleInterface/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rudrakshjani/.nuget/NuGet/NuGet.Config"

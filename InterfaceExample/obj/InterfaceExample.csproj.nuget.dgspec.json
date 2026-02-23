@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rudrakshjani/RiderProjects/ConsoleApp1/InterfaceExample/InterfaceExample.csproj": {}
+    "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/InterfaceExample/InterfaceExample.csproj": {}
   },
   "projects": {
-    "/Users/rudrakshjani/RiderProjects/ConsoleApp1/InterfaceExample/InterfaceExample.csproj": {
+    "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/InterfaceExample/InterfaceExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rudrakshjani/RiderProjects/ConsoleApp1/InterfaceExample/InterfaceExample.csproj",
+        "projectUniqueName": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/InterfaceExample/InterfaceExample.csproj",
         "projectName": "InterfaceExample",
-        "projectPath": "/Users/rudrakshjani/RiderProjects/ConsoleApp1/InterfaceExample/InterfaceExample.csproj",
+        "projectPath": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/InterfaceExample/InterfaceExample.csproj",
         "packagesPath": "/Users/rudrakshjani/.nuget/packages/",
-        "outputPath": "/Users/rudrakshjani/RiderProjects/ConsoleApp1/InterfaceExample/obj/",
+        "outputPath": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/InterfaceExample/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rudrakshjani/.nuget/NuGet/NuGet.Config"

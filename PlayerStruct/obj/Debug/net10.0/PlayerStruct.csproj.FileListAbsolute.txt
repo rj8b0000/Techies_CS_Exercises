@@ -1,0 +1,15 @@
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/PlayerStruct/bin/Debug/net10.0/PlayerStruct
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/PlayerStruct/bin/Debug/net10.0/PlayerStruct.deps.json
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/PlayerStruct/bin/Debug/net10.0/PlayerStruct.runtimeconfig.json
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/PlayerStruct/bin/Debug/net10.0/PlayerStruct.dll
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/PlayerStruct/bin/Debug/net10.0/PlayerStruct.pdb
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/PlayerStruct/obj/Debug/net10.0/PlayerStruct.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/PlayerStruct/obj/Debug/net10.0/PlayerStruct.AssemblyInfoInputs.cache
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/PlayerStruct/obj/Debug/net10.0/PlayerStruct.AssemblyInfo.cs
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/PlayerStruct/obj/Debug/net10.0/PlayerStruct.csproj.CoreCompileInputs.cache
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/PlayerStruct/obj/Debug/net10.0/PlayerStruct.sourcelink.json
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/PlayerStruct/obj/Debug/net10.0/PlayerStruct.dll
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/PlayerStruct/obj/Debug/net10.0/refint/PlayerStruct.dll
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/PlayerStruct/obj/Debug/net10.0/PlayerStruct.pdb
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/PlayerStruct/obj/Debug/net10.0/PlayerStruct.genruntimeconfig.cache
+/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/PlayerStruct/obj/Debug/net10.0/ref/PlayerStruct.dll

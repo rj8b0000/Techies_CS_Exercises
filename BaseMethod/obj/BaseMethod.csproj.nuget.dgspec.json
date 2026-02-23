@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rudrakshjani/RiderProjects/ConsoleApp1/BaseMethod/BaseMethod.csproj": {}
+    "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/BaseMethod/BaseMethod.csproj": {}
   },
   "projects": {
-    "/Users/rudrakshjani/RiderProjects/ConsoleApp1/BaseMethod/BaseMethod.csproj": {
+    "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/BaseMethod/BaseMethod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rudrakshjani/RiderProjects/ConsoleApp1/BaseMethod/BaseMethod.csproj",
+        "projectUniqueName": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/BaseMethod/BaseMethod.csproj",
         "projectName": "BaseMethod",
-        "projectPath": "/Users/rudrakshjani/RiderProjects/ConsoleApp1/BaseMethod/BaseMethod.csproj",
+        "projectPath": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/BaseMethod/BaseMethod.csproj",
         "packagesPath": "/Users/rudrakshjani/.nuget/packages/",
-        "outputPath": "/Users/rudrakshjani/RiderProjects/ConsoleApp1/BaseMethod/obj/",
+        "outputPath": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/BaseMethod/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rudrakshjani/.nuget/NuGet/NuGet.Config"
