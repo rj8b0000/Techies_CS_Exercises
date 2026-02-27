@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/IMovable.cs/IMovable.cs.csproj": {}
+    "/Volumes/RudrSSD/Projects/RiderProjects/Techies_CS_Exercises/IMovable.cs/IMovable.cs.csproj": {}
   },
   "projects": {
-    "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/IMovable.cs/IMovable.cs.csproj": {
+    "/Volumes/RudrSSD/Projects/RiderProjects/Techies_CS_Exercises/IMovable.cs/IMovable.cs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/IMovable.cs/IMovable.cs.csproj",
+        "projectUniqueName": "/Volumes/RudrSSD/Projects/RiderProjects/Techies_CS_Exercises/IMovable.cs/IMovable.cs.csproj",
         "projectName": "IMovable.cs",
-        "projectPath": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/IMovable.cs/IMovable.cs.csproj",
+        "projectPath": "/Volumes/RudrSSD/Projects/RiderProjects/Techies_CS_Exercises/IMovable.cs/IMovable.cs.csproj",
         "packagesPath": "/Users/rudrakshjani/.nuget/packages/",
-        "outputPath": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/IMovable.cs/obj/",
+        "outputPath": "/Volumes/RudrSSD/Projects/RiderProjects/Techies_CS_Exercises/IMovable.cs/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rudrakshjani/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordPractice/RecordPractice.csproj": {}
+    "/Volumes/RudrSSD/Projects/RiderProjects/Techies_CS_Exercises/RecordPractice/RecordPractice.csproj": {}
   },
   "projects": {
-    "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordPractice/RecordPractice.csproj": {
+    "/Volumes/RudrSSD/Projects/RiderProjects/Techies_CS_Exercises/RecordPractice/RecordPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordPractice/RecordPractice.csproj",
+        "projectUniqueName": "/Volumes/RudrSSD/Projects/RiderProjects/Techies_CS_Exercises/RecordPractice/RecordPractice.csproj",
         "projectName": "RecordPractice",
-        "projectPath": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordPractice/RecordPractice.csproj",
+        "projectPath": "/Volumes/RudrSSD/Projects/RiderProjects/Techies_CS_Exercises/RecordPractice/RecordPractice.csproj",
         "packagesPath": "/Users/rudrakshjani/.nuget/packages/",
-        "outputPath": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/RecordPractice/obj/",
+        "outputPath": "/Volumes/RudrSSD/Projects/RiderProjects/Techies_CS_Exercises/RecordPractice/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rudrakshjani/.nuget/NuGet/NuGet.Config"

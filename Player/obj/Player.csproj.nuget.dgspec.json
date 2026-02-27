@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/Player/Player.csproj": {}
+    "/Volumes/RudrSSD/Projects/RiderProjects/Techies_CS_Exercises/Player/Player.csproj": {}
   },
   "projects": {
-    "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/Player/Player.csproj": {
+    "/Volumes/RudrSSD/Projects/RiderProjects/Techies_CS_Exercises/Player/Player.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/Player/Player.csproj",
+        "projectUniqueName": "/Volumes/RudrSSD/Projects/RiderProjects/Techies_CS_Exercises/Player/Player.csproj",
         "projectName": "Player",
-        "projectPath": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/Player/Player.csproj",
+        "projectPath": "/Volumes/RudrSSD/Projects/RiderProjects/Techies_CS_Exercises/Player/Player.csproj",
         "packagesPath": "/Users/rudrakshjani/.nuget/packages/",
-        "outputPath": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/Player/obj/",
+        "outputPath": "/Volumes/RudrSSD/Projects/RiderProjects/Techies_CS_Exercises/Player/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rudrakshjani/.nuget/NuGet/NuGet.Config"

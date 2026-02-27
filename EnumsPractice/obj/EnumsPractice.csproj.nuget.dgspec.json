@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/EnumsPractice/EnumsPractice.csproj": {}
+    "/Volumes/RudrSSD/Projects/RiderProjects/Techies_CS_Exercises/EnumsPractice/EnumsPractice.csproj": {}
   },
   "projects": {
-    "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/EnumsPractice/EnumsPractice.csproj": {
+    "/Volumes/RudrSSD/Projects/RiderProjects/Techies_CS_Exercises/EnumsPractice/EnumsPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/EnumsPractice/EnumsPractice.csproj",
+        "projectUniqueName": "/Volumes/RudrSSD/Projects/RiderProjects/Techies_CS_Exercises/EnumsPractice/EnumsPractice.csproj",
         "projectName": "EnumsPractice",
-        "projectPath": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/EnumsPractice/EnumsPractice.csproj",
+        "projectPath": "/Volumes/RudrSSD/Projects/RiderProjects/Techies_CS_Exercises/EnumsPractice/EnumsPractice.csproj",
         "packagesPath": "/Users/rudrakshjani/.nuget/packages/",
-        "outputPath": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/EnumsPractice/obj/",
+        "outputPath": "/Volumes/RudrSSD/Projects/RiderProjects/Techies_CS_Exercises/EnumsPractice/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rudrakshjani/.nuget/NuGet/NuGet.Config"

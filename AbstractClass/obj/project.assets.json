@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/AbstractClass/AbstractClass.csproj",
+      "projectUniqueName": "/Volumes/RudrSSD/Projects/RiderProjects/Techies_CS_Exercises/AbstractClass/AbstractClass.csproj",
       "projectName": "AbstractClass",
-      "projectPath": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/AbstractClass/AbstractClass.csproj",
+      "projectPath": "/Volumes/RudrSSD/Projects/RiderProjects/Techies_CS_Exercises/AbstractClass/AbstractClass.csproj",
       "packagesPath": "/Users/rudrakshjani/.nuget/packages/",
-      "outputPath": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/AbstractClass/obj/",
+      "outputPath": "/Volumes/RudrSSD/Projects/RiderProjects/Techies_CS_Exercises/AbstractClass/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rudrakshjani/.nuget/NuGet/NuGet.Config"

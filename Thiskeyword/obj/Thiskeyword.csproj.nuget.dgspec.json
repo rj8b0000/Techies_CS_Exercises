@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/Thiskeyword/Thiskeyword.csproj": {}
+    "/Volumes/RudrSSD/Projects/RiderProjects/Techies_CS_Exercises/Thiskeyword/Thiskeyword.csproj": {}
   },
   "projects": {
-    "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/Thiskeyword/Thiskeyword.csproj": {
+    "/Volumes/RudrSSD/Projects/RiderProjects/Techies_CS_Exercises/Thiskeyword/Thiskeyword.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/Thiskeyword/Thiskeyword.csproj",
+        "projectUniqueName": "/Volumes/RudrSSD/Projects/RiderProjects/Techies_CS_Exercises/Thiskeyword/Thiskeyword.csproj",
         "projectName": "Thiskeyword",
-        "projectPath": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/Thiskeyword/Thiskeyword.csproj",
+        "projectPath": "/Volumes/RudrSSD/Projects/RiderProjects/Techies_CS_Exercises/Thiskeyword/Thiskeyword.csproj",
         "packagesPath": "/Users/rudrakshjani/.nuget/packages/",
-        "outputPath": "/Users/rudrakshjani/RiderProjects/Techies_CS_Exercises/Thiskeyword/obj/",
+        "outputPath": "/Volumes/RudrSSD/Projects/RiderProjects/Techies_CS_Exercises/Thiskeyword/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rudrakshjani/.nuget/NuGet/NuGet.Config"

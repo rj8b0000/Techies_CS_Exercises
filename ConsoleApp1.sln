@@ -44,6 +44,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordPractice", "RecordPra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordsWithKeyword", "RecordsWithKeyword\RecordsWithKeyword.csproj", "{ACBEFCA0-4166-4822-A4ED-16222F87EB0A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringSplit", "StringSplit\StringSplit.csproj", "{8836644F-3748-4796-9279-2FDA6748799D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrequencyCalculator", "FrequencyCalculator\FrequencyCalculator.csproj", "{CD528772-8CD7-4156-8664-05C061735EDE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -138,5 +142,13 @@ Global
 		{ACBEFCA0-4166-4822-A4ED-16222F87EB0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACBEFCA0-4166-4822-A4ED-16222F87EB0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACBEFCA0-4166-4822-A4ED-16222F87EB0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8836644F-3748-4796-9279-2FDA6748799D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8836644F-3748-4796-9279-2FDA6748799D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8836644F-3748-4796-9279-2FDA6748799D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8836644F-3748-4796-9279-2FDA6748799D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD528772-8CD7-4156-8664-05C061735EDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD528772-8CD7-4156-8664-05C061735EDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD528772-8CD7-4156-8664-05C061735EDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD528772-8CD7-4156-8664-05C061735EDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
